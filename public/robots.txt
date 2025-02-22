@@ -1,0 +1,11 @@
+# Allow all robots complete access
+User-agent: *
+Disallow:
+
+Disallow: /private/
+
+# Allow Googlebot to access everything
+User-agent: Googlebot
+Disallow:
+
+
